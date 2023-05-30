@@ -4,6 +4,6 @@ This code enables the generation of a random string consisting of X characters, 
 Feel free to implement the provided code in your project and enjoy the excitement of having freshly generated names for your files every time you run it! While the code should work with various file extensions, please note that I have specifically tested it with executable files.
 
 Requirements:
-C++ 20
+C++ 20  
 No other settings were changed.
 
